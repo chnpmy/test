@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Seam_Carving:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Seam_Carving_jar</output-path>
+    <root id="archive" name="Seam_Carving.jar">
+      <element id="module-output" name="Seam_Carving" />
+    </root>
+  </artifact>
+</component>
